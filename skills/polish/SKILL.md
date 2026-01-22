@@ -50,10 +50,6 @@ Your goal is to polish the user's input into **Casual** and **Formal** versions.
 ## Output Format
 Please present the result strictly in this format:
 
----
-
 **🗣️ Casual:** [Polished text in original language]
 **📝 Formal:** [Polished text in original language]
 **🔥 Viral:** [Provocative/Meme text]
-
----
